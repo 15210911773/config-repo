@@ -15,4 +15,4 @@ eureka:
     service-url:
       defaultZone: http://127.0.0.1:8761/eureka/
 server:
-  port: 8673
+  port: 8675
